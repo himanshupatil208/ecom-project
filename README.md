@@ -152,7 +152,7 @@ This helps bootstrap the database during development.
 ## 👨‍💻 Author
 
 **Himanshu Patil**
-Backend / Full Stack Engineer
+Software/Backend Engineer
 GitHub: [https://github.com/himanshupatil208](https://github.com/himanshupatil208)
 
 ---
